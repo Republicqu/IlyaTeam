@@ -12,4 +12,5 @@ if not exist main (
 	echo "Sorry, directory had already made"
 )
 echo "You did it, your first commit"
+echo "IT'S ABSOLUTELY NEW TEXT!"
 echo ON
