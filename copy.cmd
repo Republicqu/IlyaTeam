@@ -12,14 +12,5 @@ echo "THIS NEW TEXT"
 echo "THIS NET"
 echo "Start copy"
 
-for /R %%i in (*) do (
-	echo %%i
-	copy %%i H:\Database
-)
-
-for /R %%i in (*) do (
-	echo %%i
-	copy %%i H:\Database
-)
 
 echo on
