@@ -13,4 +13,5 @@ if not exist main (
 )
 echo "You did it, your first commit"
 echo "IT'S ABSOLUTELY NEW TEXT!"
+echo "IT'S ABSOLUTELY NEW TEX2T!"
 echo ON
