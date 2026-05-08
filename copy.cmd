@@ -3,6 +3,7 @@ echo "Copy files from this path to another one"
 
 if not exist H:\Database (
 	mkdir H:\Database
+	mkdir H:\Пккк
 ) else (
 	echo "You already have this Data"
 )
