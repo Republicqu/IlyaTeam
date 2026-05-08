@@ -7,6 +7,8 @@ if not exist H:\Database (
 	echo "You already have this Data"
 )
 
+echo "THIS NEW TEXT"
+
 echo "Start copy"
 
 for /R %%i in (*) do (
