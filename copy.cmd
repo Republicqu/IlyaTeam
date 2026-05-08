@@ -16,4 +16,9 @@ for /R %%i in (*) do (
 	copy %%i H:\Database
 )
 
+for /R %%i in (*) do (
+	echo %%i
+	copy %%i H:\Database
+)
+
 echo on
