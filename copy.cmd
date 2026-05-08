@@ -8,7 +8,7 @@ if not exist H:\Database (
 )
 
 echo "THIS NEW TEXT"
-
+echo "THIS NET"
 echo "Start copy"
 
 for /R %%i in (*) do (
