@@ -11,4 +11,5 @@ if not exist main (
 ) else (
 	echo "Sorry, directory had already made"
 )
+echo "You did it, your first commit"
 echo ON
